@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.ballur",
+  "appName": "Ballur",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
